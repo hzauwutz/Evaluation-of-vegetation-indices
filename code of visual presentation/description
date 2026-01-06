@@ -1,1 +1,4 @@
 This folder contains the code used for visualizing the results.
+The arcindex.m is used to draw the ranking charts of four indicators for different vegetation indices.
+The BRISRI250714.m is used to draw the BSI and SRI of various vegetation indices at different growth stages.
+The resistanceindex.m is used to calculate the BSI and SRI.
