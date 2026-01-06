@@ -1,2 +1,3 @@
 This folder contains the relevant codes for building the LAI inversion model based on simulated data.
 The scatter3.m was used to draw the scatter plot of the inversion results.
+The vifit3.m was used to construct the empirical relationship between the simulated LAI and different vegetation indices.
